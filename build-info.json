@@ -1,0 +1,95 @@
+{
+  "releaseVersion": "v1.0.0",
+  "sourceCommit": "b010d8206299db1356fcef91a78f8357af6e18c3",
+  "sourceBranch": "main",
+  "sourceTag": "v1.0.0",
+  "hosting": "GitHub Pages",
+  "base": "/festa-4cut/",
+  "buildEnvironment": {
+    "VITE_ENABLE_PHOTO_FILTERS": "true",
+    "VITE_ENABLE_TEST_MODE": "false"
+  },
+  "artifacts": [
+    {
+      "path": "assets/black-718-BV7XO-II.png",
+      "sha256": "11d5783db2d685e05510949c7339b9ca139bf462fc41c3e11d296e0f1aba622a",
+      "bytes": 765685
+    },
+    {
+      "path": "assets/black-728-CmTqeQbt.png",
+      "sha256": "2dd12f89d2e5251a589f2be9b94635fd37fe4627070a0bf060e87a08eb22d294",
+      "bytes": 726315
+    },
+    {
+      "path": "assets/blue-718-BHFXyy09.png",
+      "sha256": "11b449bd7b6e47aea797f742344ac0577a7406949b3c305664f69593516fc32a",
+      "bytes": 560679
+    },
+    {
+      "path": "assets/blue-728-B0ToSuy5.png",
+      "sha256": "3d38eda386c0b9c8307baddb369fad898b0edc858859047d20b4534a7864d8a9",
+      "bytes": 557142
+    },
+    {
+      "path": "assets/festa-sample-1-Bo74gH-j.jpg",
+      "sha256": "d4dbcaf484b39e7afd5d8b2e6c7f5516a60011784d60b8436ee1908fb64bcc29",
+      "bytes": 64858
+    },
+    {
+      "path": "assets/festa-sample-2-CKTfjOHh.jpg",
+      "sha256": "3e58265d540f4818038e17a244500371adc4160205654bea8aa24105066855fb",
+      "bytes": 65905
+    },
+    {
+      "path": "assets/festa-sample-3-iiQcm1cA.jpg",
+      "sha256": "d10501c493bd2b2fdcc89749c451884de50b483d211c69046fdcdea19e11560f",
+      "bytes": 64953
+    },
+    {
+      "path": "assets/festa-sample-4-B4LDEI2G.jpg",
+      "sha256": "5fd90c89e0e44b3a29098f5e43752c935be271eceaf78189a3cf51c875577637",
+      "bytes": 64561
+    },
+    {
+      "path": "assets/festival-718-BqVw8jkt.png",
+      "sha256": "908ab9a621d6a6f42d313546c5084ed027a982a94220ebe1fb6f46db71619beb",
+      "bytes": 869595
+    },
+    {
+      "path": "assets/festival-728-CyyL1Vj5.png",
+      "sha256": "cfe64349321f34cf80d42665742ed4b13a12c8eede3b83481e3ce97231777fd6",
+      "bytes": 841241
+    },
+    {
+      "path": "assets/index-BGncb-JA.js",
+      "sha256": "f5ba5a6e8faf88f9db1774b945c25d40ce3722e26138e1372f71954719b3535b",
+      "bytes": 264778
+    },
+    {
+      "path": "assets/index-By6fJgb_.css",
+      "sha256": "253552cbbe7e6294172847b5e0518d99e7dcf83e5979929dd2159ca1058d4149",
+      "bytes": 18299
+    },
+    {
+      "path": "assets/pink-718-U0Q0TRHC.png",
+      "sha256": "386b7b73b61306a80fa33b31c7628c457b5073fd0bdc9ee34586bd936ae0ddc7",
+      "bytes": 887286
+    },
+    {
+      "path": "assets/pink-728-DgBGQXeW.png",
+      "sha256": "2e13cad14089801433693f769e129733dac1d4e630e2e194f48059726dc318d5",
+      "bytes": 857059
+    },
+    {
+      "path": "assets/white-718-BA7oUvao.png",
+      "sha256": "35f60ea7d85d99e1fd14318e34376345b1d1e3537f7e198981356b2f0a55cb07",
+      "bytes": 936359
+    },
+    {
+      "path": "assets/white-728-CMXRSjh-.png",
+      "sha256": "064c16ccb34f749a39998ae0745425be6e11df5cc98d7fef8d7b54dab45684dd",
+      "bytes": 898271
+    }
+  ],
+  "indexHtmlSha256": "46f8039023ffb7b843429f3c4c63560c78e392cad1bea69d003915ae4230246c"
+}
